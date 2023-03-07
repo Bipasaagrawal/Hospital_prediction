@@ -5,6 +5,7 @@ This project consists of the ability to predict hospital patient residence perio
 The importance of this research lies in determining the suitable features of blood tests, diseases, activities, age, gender, etc.. needed to predict each label and to provide hospital staff with a meaningful tool that provides insight on determining the possibility of having the diseases, specific blood tests levels illustrated above and how long should a patient stay at the hospital or deciding their admission type. With further studies, this research can also provide insight into the resources needed for each patient and more accurate predictions with multiple datasets.
 
 ML Algorithms used: 
+
 1 - Duration of Stay: Dummy Regressor, Linear Regression, and Random Forest
      Regressor.
      
