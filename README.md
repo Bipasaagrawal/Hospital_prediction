@@ -7,12 +7,17 @@ The importance of this research lies in determining the suitable features of blo
 ML Algorithms used: 
 1 - Duration of Stay: Dummy Regressor, Linear Regression, and Random Forest
      Regressor.
+     
 2 - Heart Failure: Random Forest Classifier, AdaBoost Classifier, and Dense 
-      Neural Networks. 
+      Neural Networks.
+      
 3 - Glucose: Random Forest Regressor, Support Vector Regression, and
       Logistic XGBoost. 
+      
 4 - Hemoglobin: Random Forest Regressor and Logistic XGBoost. 
+
 5 - Patients Type of Admission: Support Vector Classifier, Binary Hinge
      XGBoost, and Gaussian Naive Bayes. 
+     
 6 - Coronary Artery Disease: Dense Neural Network, Random Forest
       Classifier, and Binary Hinge XGBoost. 
